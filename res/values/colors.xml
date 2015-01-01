@@ -1,0 +1,9 @@
+<resources>	
+    
+	<color name="backgroundWhite">#FFFFFF</color>
+	<color name="btdarkblue">#4FBCFF</color>
+	<color name="lightblack">#767676</color>
+	<color name="amblackground">#CCCCCC</color>
+	<color name="pmblackground">#767676</color>
+
+</resources>

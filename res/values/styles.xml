@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    
+    <!-- Application theme. -->
+     <style name="CustomTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTitleSize">50dp</item>
+      	<item name="android:colorBackground">@color/backgroundWhite</item>
+      	<item name="android:windowBackground">@color/backgroundWhite</item>
+      	<item name="android:textColor">@color/lightblack</item>
+    </style>
+</resources>
